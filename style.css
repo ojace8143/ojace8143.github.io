@@ -21,3 +21,14 @@ p {
     margin: 0;
     padding: 0 8%;
 }
+table {
+    text-align: center;
+}
+
+tr, th, td {
+    text-align: center;
+    color: #e3fe3
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+
