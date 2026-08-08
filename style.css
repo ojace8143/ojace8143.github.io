@@ -8,7 +8,16 @@ h2 {
     color: #e3f2e3;
 }
 
+h1 {
+    text-align: center;
+    font-family: "IBM Plex Sans", sans-serif;
+    color: #ef2e3;
+}
+
 p {
     font-family: "IBM Plex Sans", sans-serif;
     color: #e3f2e3;
+    text-align: center;
+    margin: 0;
+    padding: 0 8%;
 }
