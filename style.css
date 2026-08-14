@@ -1,18 +1,27 @@
+/* New Color Scheme
+#404E3B: Dark Green
+#BAC8B1: Pale Green
+#E6E6E6: Dark White 
+#6C8480: Cool Blue Green
+#7B9669: Darker Pale Green
+*/
+
+
 body {
-    background-color: #003300;
+    background-color: #404E3B;
     font-family: "IBM Plex Sans", sans-serif;
-    color: #e3f2e3;
+    color: #BAC8B1;
     margin: 0;
     padding: 0 8%;
 }
 
 h1, h2, h3 {
     text-align: center;
-    color: #e3f2e3;
+    color: #E6E6E6;
 }
 
 p {
-    color: #e3f2e3;
+    color: #E6E6E6;
     text-align: center;
     margin: 15px 0;
     padding: 0 8%;
@@ -21,17 +30,18 @@ p {
 
 hr {
     border: 0;
-    border-top: 1px solid #1a661a;
+    border-top: 1px solid #6C8480;
 }
 
 table {
     width: 80%;
     margin: 20px auto;
     border-collapse: collapse;
-    color: #e3f2e3;
+    background-color: #7B9669;
 }
 
 th, td {
     padding: 10px;
     text-align: center;
+    color: #E6E6E6;
 }
