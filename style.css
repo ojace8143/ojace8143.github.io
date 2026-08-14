@@ -54,6 +54,8 @@ footer {
     text-align: center;
     padding: 3px;
     background-color: #7B9669;
+    width: 100%;
+    border-top: 1px solid
 }
 .tile {
     background-color: #7B9669;
