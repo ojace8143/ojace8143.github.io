@@ -1,6 +1,6 @@
 /* New Color Scheme
 #404E3B: Dark Green
-#BAC8B1: Pale Green
+#BAC8B1 Pale Green
 #E6E6E6: Dark White 
 #6C8480: Cool Blue Green
 #7B9669: Darker Pale Green
@@ -29,8 +29,12 @@ p {
 }
 
 a {
-    color: #6C8480;
+    color: #BAC8B1;
     text-align: center;
+}
+
+a:hover {
+    color: #E6E6E6;
 }
 
 hr {
@@ -67,6 +71,7 @@ footer {
     border: 1px solid #6C8480;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    width: 100%
 }
 
 .tile {
