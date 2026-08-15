@@ -5,17 +5,39 @@
             <link rel="stylesheet" href="style.css">
         </head>
         <body>
+            <nav class="navbar">
+                <a href="/">Home</a>
+
+                <div class="dropdown">
+                    <a href="#projects">Projects ▾</a>
+                    <div class="dropdown-content">
+                        <a>Minecraft Server</a>
+                        <a>Steam Launcher</a>
+                    </div>
+                </div>
+
+                <div class="dropdown">
+                    <a href="#links">Links ▾</a>
+                        <div class="dropdown-content">
+                            <a>GitHub</a>
+                            <a>Spotify</a>
+                        </div>
+                </div>
+
+                <a href="#about">About</a>
+            </nav>
+
             <h1>ojace8143's website</h1>
             <hr><br>
 
-            <h2>About me</h2>
+            <h2 id="about">About me</h2>
             <p>
                 Just your average high school student. Going into sophomore year. I use gentoo and void linux, and i have the occasional project that i work on. learning C.
             </p>
 
             <hr>
 
-            <h2>My Projects</h2>
+            <h2 id="projects">My Projects</h2>
                 <h3>Minecraft Server</h3>
                     <p>
                         Made with docker. Hosting on old Intel NUC. ip is jmc.orcweb.xyz. You can join by applying in my discord.
@@ -38,9 +60,10 @@
                         Using gum ui, will add to my github soon. Made to save recources on low end machines as steam isn't open in the background. Only works with Linux native binaries.
                     </p>
             <hr><br>
-            <h2>Links</h2>
+            <h2 id="links">Links</h2>
                 <div class="tile">
                     <a href="https://github.com/ojace8143">Github Profile</a>
+                    <br>
                     <a href="https://open.spotify.com/user/31duzpw5p6nqf74wguxsy6ktucwm">Spotify</a>
                 </div>
             <br><br>
