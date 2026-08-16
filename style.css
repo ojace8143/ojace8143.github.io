@@ -73,6 +73,7 @@ footer {
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
     width: 100%
+    box-sizing: border-box;
 }
 
 .tile {
@@ -90,9 +91,9 @@ footer {
     align-items: center;
     justify-content: center;
     gap: 10px;
-    background-color: #7B9669;
+    background-color: #404E3B;
     border: 1px solid #6C8480;
-    border-radius: 12px;
+    border-radius: 0 0 12px 12px;
     padding: 10px;
     margin-bottom: 30px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
@@ -101,7 +102,7 @@ footer {
 .navbar a,
 .dropdown button {
     font-family: "IBM Plex Sans", sans-serif;
-    color: #E6E6E6;
+    color: #BAC8B1;
     text-decoration: none;
     background: none;
     border: none;
@@ -113,7 +114,7 @@ footer {
 
 .navbar a:hover,
 .dropdown button:hover {
-    background-color: #6C8480;
+    background-color: #7B9669;
     color: #E6E6E6;
 }
 
