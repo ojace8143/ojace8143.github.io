@@ -64,6 +64,10 @@ th {
     background-color: #6C8480;
 }
 
+li::marker {
+    font-size 0.7em;
+}
+
 footer {
     text-align: center;
     padding: 20px;
