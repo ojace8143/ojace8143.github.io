@@ -1,15 +1,27 @@
 # Website
 
-i got some plans
-* fix styling so it doesen't look like ass
-* add more stuff ig
-* yeah basically it i'll work on it when i can
-* wait new idea add n64 emulator for fun
-* minecraft server API with status and player count and stuff
+# Todo list
 
+## General
+- [] Navbar on all subsites
+- [] Collect and format server lore, make available to read on website
+- [] Add monkeytype API
+- [] Improve homepage more, maybe get a solid font
+- [] Improve styling also. We have a good baseline, just some finishing touches
+
+## Minecraft Server
+- [] More downloads related to server
+- [] Document mods
+- [] Screenshots perhaps
+
+## Future stuff
+- [] Move off of github pages to actual server
+- [] Dynamic Content
+- [] More interactive stuff
+
+# Other Stuff
 
 ## Notes
-yeah im committing a little bit don't mind me
+none so far
 
-when using git theres no such thing as overcomitting
-  
+but server lore gonna be so fire just wait for it i promise
