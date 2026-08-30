@@ -149,3 +149,30 @@ footer {
 .dropdown:hover .dropdown-content {
     display: block;
 } 
+.original-pov {
+    margin-top: 2rem;
+    border: 1px solid #444;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.original-pov summary {
+    padding: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    user-select: none;
+}
+
+.original-pov summary:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.original-pov-content {
+    padding: 1rem;
+    border-top: 1px solid #444;
+    opacity: 0.85;
+}
+
+.original-pov-content p {
+    margin-bottom: 1rem;
+}
