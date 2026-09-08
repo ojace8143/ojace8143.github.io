@@ -83,6 +83,12 @@ footer {
     box-sizing: border-box;
 }
 
+.link {
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+}
+
 .tile {
     background-color: #7B9669;
     padding: 20px;
