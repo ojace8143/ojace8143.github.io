@@ -39,7 +39,9 @@ a:hover {
 
 hr {
     border: 0;
-    border-top: 1px solid #6C8480;
+    border-top: 3px solid #6C8480;
+    width: 45%;
+    margin: 25px auto;
 }
 
 table {
