@@ -3,14 +3,14 @@
 # Todo list
 
 ## General
-- [ ] Navbar on all subsites
+- [x] Navbar on all subsites
 - [ ] Collect and format server lore, make available to read on website
 - [ ] Add monkeytype API
 - [ ] Improve homepage more, maybe get a solid font
-- [ ] Improve styling also. We have a good baseline, just some finishing touches
+- [x] Improve styling 
 
 ## Minecraft Server
-- [ ] More downloads related to server
+- [x] More downloads related to server
 - [ ] Document mods
 - [ ] Screenshots perhaps
 
