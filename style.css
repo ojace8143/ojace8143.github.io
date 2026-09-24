@@ -77,8 +77,8 @@ footer {
     margin-top: 40px;
     background-color: #7B9669;
     border-top: 1px solid #6C8480;
-    width: 100vw;
-    margin-left: calc(50% - 50vw);
+    margin-left: -8vw;
+    margin-right: -8vw;
     box-sizing: border-box;
 }
 
