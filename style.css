@@ -23,8 +23,8 @@ h1, h2, h3 {
 p {
     color: #E6E6E6;
     text-align: center;
-    margin: 15px 0;
-    padding: 0 8%;
+    margin: 15px auto;
+    width: 50%;
     line-height: 1.6;
 }
 
